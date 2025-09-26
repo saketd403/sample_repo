@@ -1,5 +1,5 @@
 
 
-def add(a,b):
+def add(a,b,c):
 
-    return a+b
+    return a+b+c
