@@ -1,7 +1,7 @@
 
 
 def add(a,b,c):
-    print("Inside add()")
+    print("Inside add() with three args")
     return a+b+c
 
 def multiply(a,b):
